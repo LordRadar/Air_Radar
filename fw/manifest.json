@@ -1,12 +1,12 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/LordRadar/Air_Radar/releases/download/v1.0.1/fw-1.0.1.bin",
-  "size": 1595408,
-  "md5": "eb772b8d631a52bf4ed70f120e47946b",
-  "sha256": "0771c11a6d516241180e403b998098ca0ce4684f253223a239486f568fd9e0ca",
+  "version": "1.0.2",
+  "url": "https://github.com/LordRadar/Air_Radar/releases/download/v1.0.2/fw-1.0.2.bin",
+  "size": 1596512,
+  "md5": "54e260e884491466d56846384e60e1f7",
+  "sha256": "9e8bb715e204aa4cd544e9c31cf9af9c8cf4b7bb7403ce0ac634d0a2ba234bb6",
   "channel": "stable",
   "rollout": 100,
-  "notes": "Исправлено чтение данных FR24: сервер отдаёт ответ частями, прибор собирал его не полностью.",
+  "notes": "Улучшение стабильности и производительности",
   "report_url": "https://script.google.com/macros/s/AKfycbz2KhBJp7IsBJs6IysBmW5kk67pKwvN5ln4HZHRhg69mvW8L4QKnl5WwXWkrYOzfXzf/exec",
-  "sig": "MEUCIQCQff3yXknofTZxEanjPUa9T+c4ORzU8LIm8REtEK0JGAIgNWo6FLUjKXuA0ZbNA/5d1uqU49U5LHwyXjuqXBrQEmM="
+  "sig": "MEUCIAEVRLTet3QRG3pbun98bGIgM9pjbVCKiyOwDeHAyCMMAiEA/aGEDDvZQUcVx8Y4zxPBOOfm5r3KjHNNqQhjhN8CMe0="
 }
