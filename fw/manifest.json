@@ -1,12 +1,12 @@
 {
   "version": "1.0.0",
   "url": "https://github.com/LordRadar/Air_Radar/releases/download/v1.0.0/fw-1.0.0.bin",
-  "size": 1595104,
-  "md5": "a673a22fe6482bbbc4e2645d867a5b50",
-  "sha256": "c60cea5ecc2ec42c39539d7eaff52f34a129f2770c9765fed3cc7ebeaa99e6bf",
+  "size": 1595152,
+  "md5": "76c1d560176e9bbf137b2dc581028ee3",
+  "sha256": "1e427cd2f6431779ce075b053225a4161ee934af9a0c6639eb11a35a264ce620",
   "channel": "stable",
   "rollout": 100,
-  "notes": "первый выпуск: автообновление, подпись, аналитика",
+  "notes": "Первый выпуск: автообновление, подпись манифеста, аналитика по парку.",
   "report_url": "https://script.google.com/macros/s/AKfycbz2KhBJp7IsBJs6IysBmW5kk67pKwvN5ln4HZHRhg69mvW8L4QKnl5WwXWkrYOzfXzf/exec",
-  "sig": "MEUCIQD5jkLmkrgeeaeAYosjrzUS0i9Sk/LX5lM/W1Qbx+Ry7AIgOMzQV5RAzMUrVObgDlvDqBSZhlYrNHIMwz7jJFztBUM="
+  "sig": "MEUCIDZ8TZq+a+Wb36WcrsXwcE2QiPCW6d4DZAh54fW5G1wgAiEApLal4chliiNs0i7uDXXssWD1RYHfrlKkq9Qa4rc7tps="
 }
