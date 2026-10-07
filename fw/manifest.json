@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/LordRadar/Air_Radar/releases/download/v1.0.0/fw-1.0.0.bin",
-  "size": 1595152,
-  "md5": "76c1d560176e9bbf137b2dc581028ee3",
-  "sha256": "1e427cd2f6431779ce075b053225a4161ee934af9a0c6639eb11a35a264ce620",
+  "version": "1.0.1",
+  "url": "https://github.com/LordRadar/Air_Radar/releases/download/v1.0.1/fw-1.0.1.bin",
+  "size": 1595408,
+  "md5": "eb772b8d631a52bf4ed70f120e47946b",
+  "sha256": "0771c11a6d516241180e403b998098ca0ce4684f253223a239486f568fd9e0ca",
   "channel": "stable",
   "rollout": 100,
-  "notes": "Первый выпуск: автообновление, подпись манифеста, аналитика по парку.",
+  "notes": "Исправлено чтение данных FR24: сервер отдаёт ответ частями, прибор собирал его не полностью.",
   "report_url": "https://script.google.com/macros/s/AKfycbz2KhBJp7IsBJs6IysBmW5kk67pKwvN5ln4HZHRhg69mvW8L4QKnl5WwXWkrYOzfXzf/exec",
-  "sig": "MEUCIDZ8TZq+a+Wb36WcrsXwcE2QiPCW6d4DZAh54fW5G1wgAiEApLal4chliiNs0i7uDXXssWD1RYHfrlKkq9Qa4rc7tps="
+  "sig": "MEUCIQCQff3yXknofTZxEanjPUa9T+c4ORzU8LIm8REtEK0JGAIgNWo6FLUjKXuA0ZbNA/5d1uqU49U5LHwyXjuqXBrQEmM="
 }
