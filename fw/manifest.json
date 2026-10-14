@@ -1,11 +1,11 @@
 {
-  "version": "1.0.36",
-  "url": "https://github.com/LordRadar/Air_Radar/releases/download/v1.0.36/fw-1.0.36.bin",
-  "size": 1525120,
-  "md5": "ffebcd38a1090b35d376cfb932ceeed7",
-  "sha256": "2d745ffab21002de6287a0643f55dc7ff425ef2c5891f243220bc9763585712d",
+  "version": "1.0.38",
+  "url": "https://github.com/LordRadar/Air_Radar/releases/download/v1.0.38/fw-1.0.38.bin",
+  "size": 1525440,
+  "md5": "ebe5f5bc2ae1fa9dd91fc12f6c48a657",
+  "sha256": "86cca10aba2e1fd1dd15df21ee0663ec6c7a5dd2cba9c9601e42858ad80cf1e2",
   "channel": "stable",
   "rollout": 100,
   "notes": "Улучшение стабильности и производительности",
-  "sig": "MEYCIQDV6brhlI9cvd9OCqa+7/l1rc4nXWhQTWYrJKKHOmn5nwIhAOcilqaY8QSG3pd6X0Xxiz/ETr6cUDhwyUd7lAg0q0D0"
+  "sig": "MEUCIFxFEPQlaXoT3c6/kyZ/pTZwUf/qHygkFR/X8jolyt3ZAiEAnHGWBzN/42MZqAZ18+DcyRutcFwtCdlh8k8TCP2aJds="
 }
